@@ -5,9 +5,9 @@
 	</head>
 	<body>
 
-<p><b>Wikimedia</b> is a global <a href="meta.wikimedia.org/wiki/Wikimedia_movement">movement</a> whose <a href="wikimediafoundation.org/wiki/Mission_statement">mission</a> is to brint a free educational content to the world.</p>
-
-<p>Through various <a href="http://www.wikimediafoundation.org/wiki/Our_projects"> projects </a>, <a href="meta.wikimedia.org/wiki/Wikimedia_chapters">chapters</a>, and the support structure of the non-profit Wikimedia Foundation, Wikimedia <a href="http://www.wikimediafoundation.org/wiki/Vision">strives</a> to bring about a world in which every single human being can freely share in the sum of all knowledge</p>
+<p id="serious"><font size="4"><b>Wikimedia</b> is a global <a href="meta.wikimedia.org/wiki/Wikimedia_movement">movement</a> whose <a href="wikimediafoundation.org/wiki/Mission_statement">mission</a> is to brint a free educational content to the world.</p>
+<p id="serious">Through various <a href="http://www.wikimediafoundation.org/wiki/Our_projects"> projects </a>, <a href="meta.wikimedia.org/wiki/Wikimedia_chapters">chapters</a>, and the support structure of the non-profit Wikimedia Foundation, Wikimedia <a href="http://www.wikimediafoundation.org/wiki/Vision">strives</a> to bring about a world in which every single human being can freely share in the sum of all knowledge</p></font>
+<p id="right"><b>Welcome to Wikimedia</p></b>
 <p>
 <img src="w1.png">
 <img src="w2.png">
@@ -32,7 +32,9 @@
 <img src="w15.png">
 <img src="w16.png">
 </p>
-
-
+<hr>
+<p><font size="2">Imagine a world in which every single human being can freely share in the sum of all knowledge. That's our commitment.</font></p>
+<font size="2" id="footer">
+<a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of use     </a></font><a href="http://wikimediafoundation.org/wiki/Privacy_policy"><font size="2">    Privacy Policy</font></p></a>
 	</body>
 </html>
